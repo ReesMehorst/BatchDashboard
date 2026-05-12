@@ -35,4 +35,5 @@ You can easily:
 - *Make sure the programs you add are in the /files/ folder relative to the program itself*
 
 ## Preview
-soon to add images
+<img width="748" height="401" alt="image" src="https://github.com/user-attachments/assets/d8fb439a-5392-44ae-822c-8dc25b28a67e" />
+
