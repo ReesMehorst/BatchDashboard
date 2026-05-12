@@ -7,11 +7,11 @@ cd files
 :banner
 echo.
 echo.
-echo	[38;2;255;0;0m	DDDDD  EEEEEE V       V  	
-echo	[38;2;255;51;0m	D    D E       V     V  
-echo	[38;2;255;102;0m	D    D EEEE     V   V  
-echo	[38;2;255;153;0m	D    D E         V V
-echo	[38;2;255;204;0m	DDDDD  EEEEEE     V
+echo	[38;2;255;0;0m	DDDDD  EEEEEE V       V TTTTTTT OOOOOO OOOOOO L  	
+echo	[38;2;255;51;0m	D    D E       V     V     T    O    O O    O L
+echo	[38;2;255;102;0m	D    D EEEE     V   V      T    O    O O    O L
+echo	[38;2;255;153;0m	D    D E         V V       T    O    O O    O L  
+echo	[38;2;255;204;0m	DDDDD  EEEEEE     V        T    OOOOOO OOOOOO LLLLLL  
 echo.
 echo.
 
