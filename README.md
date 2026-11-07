@@ -1,8 +1,8 @@
-# DevTool
+# BatchDashboard
 
 A lightweight Windows terminal dashboard built with Batch scripting.
 
-DevTool provides a fast command-line interface for launching:
+BatchDashboard provides a fast command-line interface for launching:
 - Applications
 - Development tools
 - Websites
